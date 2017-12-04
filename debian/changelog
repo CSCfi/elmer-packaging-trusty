@@ -1,3 +1,9 @@
+elmerfem-csc (8.3-0ppa0) trusty; urgency=low
+
+  * increase version to 8.3
+
+ -- Juhani Kataja <juhmat@gmail.com>  Mon, 04 Dec 2017 15:50:10 +0200
+
 elmerfem-csc (8.2-0ppa0) trusty; urgency=low
   
   * increase version to 8.2
